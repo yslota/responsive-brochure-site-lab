@@ -11,9 +11,8 @@ complicated since then!
 
 Nevertheless, in order to demonstrate to prospective employers, friends,
 family, poodles, and, most importantly, _yourself_ how far you've come in your
-knowledge of HTML and CSS you too must build a <span style="text-decoration:
-line-through">light-saber</span> personal web site that integrates all that
-you've learned over these previous weeks.
+knowledge of HTML and CSS you too must build a personal web site that
+integrates all that you've learned over these previous weeks.
 
 As a hint of what this exercise is worth in the marketplace, a cursory search
 for "brochure site fee" shows that this work can be billed at $75-$250/hr. That
