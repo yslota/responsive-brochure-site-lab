@@ -64,6 +64,15 @@ these ideas, follow it.
 2. Buy a domain name and configure DNS so that your brochure site is reachable
    by name
 
+## Inspiration
+
+Graphic design encompasses a wide variety of visual aesthetics. You might
+choose one style over another. Try looking at the works of Jan Tschichold,
+Ettore Sottsass, Piet Zwart, László Moholy-Nagy, Josef Muller-Brockman, Henryk
+Berlewi, Khoi Vinh. While, a decade ago, it was inconceivable or incredibly
+time-intensive to print-styled pages on the web, we now have technology that
+makes this possible. See if you can find ideas to make your page come to life!
+
 [NIN]: https://en.wikipedia.org/wiki/Nine_Inch_Nails
 [Fugees]: https://en.wikipedia.org/wiki/Fugees
 [ST]: https://en.wikipedia.org/wiki/Sachin_Tendulkar
