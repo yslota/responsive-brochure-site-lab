@@ -18,7 +18,13 @@ sites_ were the _only_ sites on the web. They were called _brochure sites_
 because, well, like _brochures_ they provided static text and images, contact
 information, a few divisions, and had a certain style.
 
-## Requirements
+## Learning Objectives
+
+1. Build a brochure site
+
+## Build a Brochure Site
+
+### Requirements
 
 1. Your site must use HTML5 semantic elements for grouping content e.g.
    `<header>`, `<article>`, and `<aside>`
@@ -27,8 +33,9 @@ information, a few divisions, and had a certain style.
 4. Your site must use one of these layout: multicolumn with floats, `flexbox`,
    or CSS grid.
 5. You must include _at least_ 3 images
-6. Your site must be optimized for _at least_ 2 viewports (a full-screen device
-   as well as a mobile device of choice). _See below_
+6. Deploy your site to web hosting
+7. Your site must be optimized for _at least_ 2 viewports (a full-screen device
+   as well as a mobile device). _See below_
 
 ![Full Size](https://curriculum-content.s3.amazonaws.com/web-development/exceptional-realty-screenshots/ex_realty_640x480.png)
 
@@ -43,7 +50,7 @@ These are baseline requirements. The goal of web design is to _serve the
 content_. Implement whatever features are needed to serve your audience the
 information they need.
 
-## Not Specified
+### Not Specified
 
 1. **The subject matter**.
    * A r&eacute;sum&eacute; or CV-like page with thumbnails of your work
@@ -54,11 +61,18 @@ information they need.
    dollar company with the most deceptively simple landing page in history.
    Serve your page with user experience in mind.
 
-## Optional Features
+### Completion and Moving On
 
-1. Deploy your site to web hosting
-2. Buy a domain name and configure DNS so that your brochure site is reachable
-   by name
+In this lab there's a file called "MY URL." You must place your URL inside this
+file. Afterward run `learn` and `learn submit`.
+
+### Conclusion
+
+In this lab you've reached a very important milestone: you've created a web
+page from scratch and deployed it on the internet. You are really a web
+developer now! You should feel comfortable editing templates, adjusting themes,
+and debugging CSS / HTML issues. Congratulations. To continue learning more,
+check out what JavaScript can do to make a web page more dynamic!
 
 [ST]: https://en.wikipedia.org/wiki/Sachin_Tendulkar
 [Phish]: https://en.wikipedia.org/wiki/Phish
